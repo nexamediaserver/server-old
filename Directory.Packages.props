@@ -71,7 +71,7 @@
       Include="OpenTelemetry.Instrumentation.EntityFrameworkCore"
       Version="1.14.0-beta.2"
     />
-    <PackageVersion Include="OpenTelemetry.Instrumentation.Hangfire" Version="1.14.0-beta.1" />
+    <PackageVersion Include="OpenTelemetry.Instrumentation.Hangfire" Version="1.14.0-beta.2" />
     <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.14.0" />
     <PackageVersion Include="OpenTelemetry" Version="1.14.0" />
     <PackageVersion Include="Roslynator.Analyzers" Version="4.15.0" />
