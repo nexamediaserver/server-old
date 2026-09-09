@@ -133,7 +133,7 @@
     "vite-plugin-compression2": "^2.4.0",
     "vite-plugin-graphql-codegen": "^3.8.0",
     "vite-plugin-graphql-loader": "^4.0.4",
-    "vitest": "^4.0.16",
+    "vitest": "^4.1.11",
     "web-vitals": "^5.1.0"
   },
   "engines": {
